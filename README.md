@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsu3s&layout=compact&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitsu3s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
