@@ -24,7 +24,7 @@ My focus is on enabling their deployment across various terminal devices.
 ### Study:
 
 I'm studying all aspects of networking, including network design and implementation.  
-I'm also focusing on web application development, primarily using @next.js.
+I'm also focusing on web application development, primarily using Next.js.
 
 
 ### Languages and Tools:
