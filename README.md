@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 ### Research:
 
-I'm currently working on overlay networks at @Pluslab.
+I'm developing and researching overlay networks and extension methods at @Pluslab.  
+My focus is on enabling their deployment across various terminal devices.
+
 
 ### Study:
 
-I'm studying all aspects of networking, such as network design and implementation.  
-I'm also studying web applications, mainly through development using Next.js.
+I'm studying all aspects of networking, including network design and implementation.  
+I'm also focusing on web application development, primarily using @next.js.
 
 
 ### Languages and Tools:
