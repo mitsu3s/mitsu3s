@@ -36,7 +36,7 @@ I'm also focusing on web application development, primarily using Next.js.
 
 #### Backend:
 
-<img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=golang,nodejs,python,mysql" />
+<img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=golang,nodejs,python,php,laravel,mysql" />
 
 #### DevOps:
 
