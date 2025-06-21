@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 ## Research:
 
-I'm researching overlay network protocols and their extension methods at @Pluslab.  
-Currently, I focus on extending overlay networks for real-world deployment and developing external terminals compatible with IoT devices.
+Researching overlay network protocols and their extension methods at @Pluslab.
 
 ## Study:
 
-I'm studying networking concepts and architectures, aiming to design practical infrastructure with Kubernetes and other deployment tools.
+Exploring infrastructure technologies related to system operations.
 
 ## Languages and Tools:
 
@@ -39,10 +38,12 @@ I'm studying networking concepts and architectures, aiming to design practical i
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=linux" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=git" />
+  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
+  <img src="https://skillicons.dev/icons?theme=light&i=git" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=raspberrypi" />
 </div>
 
 ### Experienced with
@@ -52,20 +53,24 @@ I'm studying networking concepts and architectures, aiming to design practical i
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=react" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=nextjs" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=vercel" />
+  <img src="https://skillicons.dev/icons?theme=light&i=python" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=php" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=laravel" />
+  <img src="https://skillicons.dev/icons?theme=light&i=c" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=lua" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?theme=light&i=nextjs" />
+  &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=flask" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=laravel" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=postgresql" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=c" />
+  <img src="https://skillicons.dev/icons?theme=light&i=vercel" />
 </div>
 
 ### Learning & excited about
@@ -78,6 +83,8 @@ I'm studying networking concepts and architectures, aiming to design practical i
   <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
 </div>
