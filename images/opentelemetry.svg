@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none">
   <!-- 背景：Skilliconでよく使われる角丸 -->
-  <rect width="256" height="256" rx="60" fill="#ffffff"/> <!-- 背景色は白 or お好みで変更 -->
+  <rect width="256" height="256" rx="60" fill="#f3f2ec"/> <!-- 背景色は白 or お好みで変更 -->
 
   <!-- OpenTelemetry アイコン -->
   <g transform="scale(1.75) translate(10,8)"> <!-- サイズ調整：128x128を256x256に -->
