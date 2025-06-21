@@ -15,35 +15,32 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Mitsuki.
 
-### Research:
+## Research:
 
 I'm researching overlay network protocols and their extension methods at @Pluslab.  
 Currently, I focus on extending overlay networks for real-world deployment and developing external terminals compatible with IoT devices.
 
-
-### Study:
+## Study:
 
 I'm studying networking concepts and architectures, aiming to design practical infrastructure with Kubernetes and other deployment tools.  
-I'm also developing web applications with frameworks like Next.js to deepen my understanding toward building real-world products.
 
 
-### Languages and Tools:
+## Languages and Tools:
 
-#### Frontend:
+### Actively using
 
-<img alt="frontend" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ts,js,react,nextjs" />
+<img alt="actively" src="https://skillicons.dev/icons?theme=light&perline=6&i=golang,ts,nodejs,mysql,linux,git,docker" />
+
+### Experienced with
+
+<img alt="experienced" src="https://skillicons.dev/icons?theme=light&perline=6&i=js,react,nextjs,vercel,php,laravel,flask,postgresql,c" />
+
+### Learning & excited about
+  
+<img alt="learning" src="https://skillicons.dev/icons?theme=light&perline=6&i=k8s,opentelemetry,grafana,prometheus,gcp" />
 
 
-#### Backend:
-
-<img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=golang,nodejs,python,php,laravel,flask,mysql,postgresql" />
-
-#### DevOps / Other:
-
-<img alt="devops" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,git,docker,linux,c,vercel" />
-
-
-### Status:
+## Status:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mitsu3s&row=2&column=4&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsu3s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
