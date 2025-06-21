@@ -38,7 +38,7 @@ I'm studying networking concepts and architectures, aiming to design practical i
 
 <img alt="learning" src="https://skillicons.dev/icons?theme=light&perline=6&i=k8s,opentelemetry,grafana,prometheus,gcp" />
 
-<img src="images/opentelemetry.svg" width="40" height="40" />
+<img src="images/opentelemetry.svg" width="48" height="48" />
 
 ## Status:
 
