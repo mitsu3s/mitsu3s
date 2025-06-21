@@ -22,8 +22,7 @@ Currently, I focus on extending overlay networks for real-world deployment and d
 
 ## Study:
 
-I'm studying networking concepts and architectures, aiming to design practical infrastructure with Kubernetes and other deployment tools.  
-
+I'm studying networking concepts and architectures, aiming to design practical infrastructure with Kubernetes and other deployment tools.
 
 ## Languages and Tools:
 
@@ -36,11 +35,13 @@ I'm studying networking concepts and architectures, aiming to design practical i
 <img alt="experienced" src="https://skillicons.dev/icons?theme=light&perline=6&i=js,react,nextjs,vercel,php,laravel,flask,postgresql,c" />
 
 ### Learning & excited about
-  
+
 <img alt="learning" src="https://skillicons.dev/icons?theme=light&perline=6&i=k8s,opentelemetry,grafana,prometheus,gcp" />
 
+<img src="images/opentelemetry.svg" width="40" height="40" />
 
 ## Status:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mitsu3s&row=2&column=4&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsu3s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
