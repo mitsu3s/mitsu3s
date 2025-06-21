@@ -28,17 +28,59 @@ I'm studying networking concepts and architectures, aiming to design practical i
 
 ### Actively using
 
-<img alt="actively" src="https://skillicons.dev/icons?theme=light&perline=6&i=golang,ts,nodejs,mysql,linux,git,docker" />
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=golang" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=ts" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=nodejs" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=mysql" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=linux" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=git" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
+</div>
 
 ### Experienced with
 
-<img alt="experienced" src="https://skillicons.dev/icons?theme=light&perline=6&i=js,react,nextjs,vercel,php,laravel,flask,postgresql,c" />
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=js" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=react" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=nextjs" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=vercel" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=php" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=laravel" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=flask" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=postgresql" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=c" />
+</div>
 
 ### Learning & excited about
 
-<img alt="learning" src="https://skillicons.dev/icons?theme=light&perline=6&i=k8s,opentelemetry,grafana,prometheus,gcp" />
-
-<img src="images/opentelemetry.svg" width="48" height="48" />
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
+  &#8202;
+  <img src="images/opentelemetry.svg" width="48" height="48" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
+</div>
 
 ## Status:
 
