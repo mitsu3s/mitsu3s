@@ -78,6 +78,10 @@ Exploring infrastructure technologies related to system operations.
 <div>
   <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
   &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=terraform" />
+  &#8202;
+  <img src="images/ansible.svg" width="48" height="48" />
+  &#8202;
   <img src="images/opentelemetry.svg" width="48" height="48" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
