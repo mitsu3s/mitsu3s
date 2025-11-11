@@ -87,7 +87,8 @@ Exploring infrastructure technologies related to system operations.
   <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
-  &#8202;
+</div>
+<div>
   <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
