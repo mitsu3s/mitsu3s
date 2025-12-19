@@ -1,5 +1,5 @@
 <!--
-**mitsu-3s/mitsu-3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mitsu3s/mitsu3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Researching overlay network protocols and their extension methods at @Pluslab.
 
-## Study:
+## Development:
 
-Exploring infrastructure technologies related to system operations.
+Learning and developing cloud technologies for service operations.
 
 ## Languages and Tools:
 
@@ -73,9 +73,13 @@ Exploring infrastructure technologies related to system operations.
   <img src="https://skillicons.dev/icons?theme=light&i=vercel" />
 </div>
 
-### Learning & excited about
+### Learning & Excited about
 
 <div>
+  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=aws" />
+  &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=terraform" />
@@ -83,15 +87,13 @@ Exploring infrastructure technologies related to system operations.
   <img src="images/ansible.svg" width="48" height="48" />
   &#8202;
   <img src="images/opentelemetry.svg" width="48" height="48" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
 </div>
 <div>
   <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
+  <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
 </div>
 
 ## Status:
