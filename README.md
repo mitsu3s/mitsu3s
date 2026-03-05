@@ -28,30 +28,40 @@ Learning and developing cloud technologies for service operations.
 ### Actively using
 
 <div>
+  <img src="https://skillicons.dev/icons?theme=light&i=linux" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=aws" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=terraform" />
+  &#8202;
+</div>
+<div>
+  <img src="images/ansible.svg" width="48" height="48" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
+  &#8202;
+  <img src="images/opentelemetry.svg" width="48" height="48" />
+  &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=golang" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=ts" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=nodejs" />
+  <img src="https://skillicons.dev/icons?theme=light&i=react" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=mysql" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=linux" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&i=git" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=raspberrypi" />
 </div>
 
 ### Experienced with
 
 <div>
-  <img src="https://skillicons.dev/icons?theme=light&i=js" />
+  <img src="https://skillicons.dev/icons?theme=light&i=nodejs" />
   &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=react" />
+  <img src="https://skillicons.dev/icons?theme=light&i=mysql" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=python" />
   &#8202;
@@ -60,6 +70,7 @@ Learning and developing cloud technologies for service operations.
   <img src="https://skillicons.dev/icons?theme=light&i=c" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=lua" />
+  &#8202;
 </div>
 <div>
   <img src="https://skillicons.dev/icons?theme=light&i=nextjs" />
@@ -76,24 +87,14 @@ Learning and developing cloud technologies for service operations.
 ### Learning & Excited about
 
 <div>
-  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=aws" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=terraform" />
-  &#8202;
-  <img src="images/ansible.svg" width="48" height="48" />
-  &#8202;
-  <img src="images/opentelemetry.svg" width="48" height="48" />
+  
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
-  &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
   &#8202;
   <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
+  &#8202;
+  <img src="https://skillicons.dev/icons?theme=light&i=elasticsearch" />
 </div>
 
 ## Status:
