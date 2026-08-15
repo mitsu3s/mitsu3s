@@ -1,105 +1,31 @@
-<!--
-**mitsu3s/mitsu3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Mitsuki 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Platform Engineer / SRE / Overlay Network Researcher
 
-# Hi 👋, I'm Mitsuki.
-
-## Research:
-
-Researching overlay network protocols and their extension methods at @Pluslab.
-
-## Development:
-
-Learning and developing cloud technologies for service operations.
-
-## Languages and Tools:
-
-### Actively using
-
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&i=linux" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=aws" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=gcp" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=k8s" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=docker" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=terraform" />
-  &#8202;
-</div>
-<div>
-  <img src="images/ansible.svg" width="48" height="48" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
-  &#8202;
-  <img src="images/opentelemetry.svg" width="48" height="48" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=golang" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=ts" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=react" />
-  &#8202;
 </div>
 
-### Experienced with
+## Focus
 
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&i=nodejs" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=mysql" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=python" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=php" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=c" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=lua" />
-  &#8202;
+- Cloud Infrastructure
+- Observability
+- Automation
+- Platform Engineering
+
+## Core Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
 </div>
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&i=nextjs" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=flask" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=laravel" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=postgresql" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=vercel" />
-</div>
-
-### Learning & Excited about
-
-<div>
-  
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
-  &#8202;
-  <img src="https://skillicons.dev/icons?theme=light&i=elasticsearch" />
-</div>
-
-## Status:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitsu3s&row=2&column=4&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsu3s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitsu3s&show_icons=true&theme=tokyonight&count_private=true)
